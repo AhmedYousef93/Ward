@@ -51,7 +51,12 @@
                                         @endforeach
                                     </tbody>
                                     <thead>
-                                        
+                                         <tr>
+                                            <th>ID</th>
+                                            <th>الاسم</th>
+                                            <th>تعديل</th>
+                                            <th>حذف</th>
+                                        </tr>
                                     </thead>
                                 </table>
                             </div>
